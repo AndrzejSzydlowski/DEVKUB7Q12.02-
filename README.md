@@ -1,6 +1,7 @@
 # Домашнее задание к занятию "12.2 Команды для работы с Kubernetes"
 
 ## Задание 1
+<img width="866" alt="1" src="https://user-images.githubusercontent.com/72221502/162696894-afcc9ecd-286e-4e5e-8b56-d8c21ba447af.png">
 
 ## Задание 2
 
@@ -60,6 +61,8 @@ Error from server (NotFound): pods "pod" not found
 Error from server (Forbidden): nodes is forbidden: User "system:serviceaccount:app-namespace:developer" cannot list resource "nodes" in API group "" at the cluster scope
 ```
 ### Конфиг локального куба
+<img width="328" alt="2" src="https://user-images.githubusercontent.com/72221502/162696852-e8ecc15f-d797-4516-8f0c-233c9030c70c.png">
 
 
 ## Задание 3
+<img width="542" alt="3" src="https://user-images.githubusercontent.com/72221502/162696927-19678550-a1ca-4067-b826-80937b4d384c.png">
